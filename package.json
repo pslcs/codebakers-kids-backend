@@ -1,0 +1,25 @@
+{
+  "name": "codebakers-kids-backend",
+  "version": "1.0.0",
+  "description": "backend for codebakers-kids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pslcs/codebakers-kids-backend.git"
+  },
+  "keywords": [
+    "codebakers"
+  ],
+  "author": "CodeBakers front-end team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pslcs/codebakers-kids-backend/issues"
+  },
+  "homepage": "https://github.com/pslcs/codebakers-kids-backend#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
